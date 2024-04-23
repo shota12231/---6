@@ -1,0 +1,182 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	background-color: #f1f1f1;
+}
+/*HEADER*/
+nav > a {
+	text-decoration: none;
+	color: black;
+	size: 11px;
+	font-weight: 700;
+	font-family: "Roboto", sans-serif;
+	margin-right: 35px;
+}
+nav > img {
+	vertical-align: middle;
+}
+ header > nav {
+	width: 1166px;
+	height: 30px;
+	margin: 0 auto;
+	padding: 20px;
+	margin-left: 174px;
+}
+/*MAIN*/
+main > h1 {
+	font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.13px;
+	color: black;
+	margin-left: 193px;
+	margin-top: 28px;
+}
+.firstphotos {
+	margin: 0 auto;
+	margin-top: 30px;
+	width: 1186px ;
+	height:360px ;
+}
+.photos1 {
+	height: 357px;
+	width: 362px;
+	display: inline-block;
+	margin-left: 20px;
+	border-radius: 5px;
+	background-color: white;
+}
+.info {
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 11.72px;
+	text-align: left;
+	color:#8A8787;
+	position: absolute;
+	margin: 45px 71px 0px 24px;
+}
+.watch {
+	position: absolute;
+	margin: 100px 0 40px 28px;
+	display: inline-block;
+}
+.time {
+	display: inline-block;
+	position: absolute;
+	font-family: "Roboto", sans-serif;
+	font-size: 10px;
+	font-weight: 700;
+	line-height: 11.72px;
+	text-align: left;
+	color:#8A8787;
+	margin: 103px 296px 2px 54px;
+}
+.names {
+	position: absolute;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 23.44px;
+	text-align: left;
+	color: #fff;
+	margin-top: -152px;
+	margin-left: 26px;
+}
+.secondpart {
+	font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.13px;
+	text-align: left;
+	color: black;
+	margin-top: 60px;
+	margin-left: 0;
+}
+.twobigphotosdiv {
+	height: 940px;
+	width: 750px;
+	margin-left: 0;
+	margin-top: 0;
+	display: inline-block;
+}
+.secimag {
+	margin-top: 40px;
+	border-radius: 6px; /*fotoebze*/
+	display: inline-block;
+}
+.bigimgtxt {
+	position: absolute;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 23.44px;
+	text-align: left;
+	color: white;
+	margin-top: 246px;
+	margin-left: 270px;
+}
+.smallimages {
+	height: 212px;
+	width: 362px;
+	margin-top: 90px;
+	margin-left: 40px;
+}
+.imagesdiv {
+	width: 1220px;
+	height: 1050px;
+	margin-left: 187px;
+	
+}
+.smallimagesdiv {
+	display: inline-block;
+	position: absolute;
+	margin-top: -52px;
+	border-radius: 6px;
+}
+/*FOOTERS*/
+.footerdivbig {
+	width: 100%;
+	height: 220px;
+	margin: 0 auto;
+	background-color:#243043;
+}
+.footerinfo {
+	width: 100px;
+	height: 160px;
+	display: inline-block;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.ftinfotxt {
+	position: absolute;
+	display: inline-block;
+	margin-top: 24px;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 14.06px;
+	color:#818687;
+}
+.lastsent {
+	position: absolute;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14.06px;
+	text-align: left;
+	color: #fff;
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.geolablogo {
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 700px;
+}
